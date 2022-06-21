@@ -1,0 +1,11 @@
+Where did you grow up?
+A few different places. First in Alexandria VA, then in Sierra Leone for a few years
+
+Where did you go to college?
+American University
+
+What was your Undergraduate Major?
+Computer Science and Economics
+
+What are you doing now?
+Learning about Git and Unix :)
